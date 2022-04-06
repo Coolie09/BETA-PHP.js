@@ -1,2 +1,5 @@
 # BETA-PHP.js
+
+THIS IS JUST A BETA VERSION OF WHAT IS COMING VERY SOON!
+
 Use PHP-methods in JavaScript!
